@@ -1,4 +1,4 @@
-# Ai-Churn-For-OTT-Bank-
+# Ai-Churn-For-OTT&Bank-
 # Churn Prediction Dashboard
 
 This project is a fully interactive **Churn Prediction Dashboard** that allows real-time predictions and data analysis for both **OTT Platforms** and **Banking Services**. It is powered by **RandomForestClassifier** models, and the predictions are visualized using an interactive web-based application.
